@@ -6,6 +6,10 @@ The Superstore dashboard presents a comprehensive overview of sales, profit, and
 
 ---
 
+<img src="Screenshot 2025-06-03 212436.png" alt="Dashboard Screenshot" width="600"/>
+
+
+---
 ## 🔸 Key Metrics Overview
 - **Sales:** $2.33M (📈 Up 47.16% from Previous Year)
 - **Profit:** $292.30K (📈 Up 48.85% from Previous Year)
